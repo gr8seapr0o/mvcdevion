@@ -1,2 +1,2 @@
 # mvcdevion
-mvcdev.pr0o.ru
+http://mvcdev.pr0o.ru
